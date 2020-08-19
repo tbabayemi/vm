@@ -5,10 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="NewFolder\**" />
-    <Content Remove="NewFolder\**" />
-    <EmbeddedResource Remove="NewFolder\**" />
-    <None Remove="NewFolder\**" />
+    <PackageReference Include="Autofac" Version="5.2.0" />
   </ItemGroup>
 
 </Project>

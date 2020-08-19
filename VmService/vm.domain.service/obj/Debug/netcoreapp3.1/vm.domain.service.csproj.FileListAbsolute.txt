@@ -1,0 +1,12 @@
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.deps.json
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.dll
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.csprojAssemblyReference.cache
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.AssemblyInfoInputs.cache
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.AssemblyInfo.cs
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.csproj.CoreCompileInputs.cache
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.pdb
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.application.contracts.dll
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.application.contracts.pdb
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.csproj.CopyComplete
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.dll
+C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.pdb

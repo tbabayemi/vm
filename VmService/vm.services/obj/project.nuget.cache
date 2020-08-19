@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3cDDkchVpQWEkRc9Sj4Ah6/wr/63PGKH/mXPPjgmq33D+D2VSxjW13rZW5dI1An2IWQd+6tadN5kty8UCU8kQ==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\VmService\\vm.services\\vm.services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12018\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
