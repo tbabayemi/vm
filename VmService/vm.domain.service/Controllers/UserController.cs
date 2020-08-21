@@ -3,24 +3,25 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.Http;
 using System.Web.Http.Results;
 using vm.application.contracts.User;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Razor.Internal;
 
 namespace vm.domain.service.Controllers
 {
-    [Route("api/users")]
-    public class UserController : IUser
+    [ApiController]
+    public class UserController : ControllerBase, IUser
     {
-        private IUser _user;
-        public UserController(IUser user)
+        public UserController()
         {
-            _user = user;
+
         }
 
-        public Task<IHttpActionResult> GetUserProfile(string userId)
+        [HttpGet("/users/profiles")]
+        public string GetUserProfile(string userId)
         {
-            return null;
+            return "profile";
         }
     }
 }

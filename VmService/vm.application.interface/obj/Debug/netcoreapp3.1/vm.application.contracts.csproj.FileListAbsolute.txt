@@ -3,6 +3,6 @@ C:\repo\VmService\vm.application.interface\bin\Debug\netcoreapp3.1\vm.applicatio
 C:\repo\VmService\vm.application.interface\bin\Debug\netcoreapp3.1\vm.application.contracts.pdb
 C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.AssemblyInfoInputs.cache
 C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.AssemblyInfo.cs
+C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.csproj.CoreCompileInputs.cache
 C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.dll
 C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.pdb
-C:\repo\VmService\vm.application.interface\obj\Debug\netcoreapp3.1\vm.application.contracts.csproj.CoreCompileInputs.cache
