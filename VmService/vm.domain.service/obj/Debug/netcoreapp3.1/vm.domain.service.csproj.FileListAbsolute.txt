@@ -2,7 +2,9 @@ C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.de
 C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.dll
 C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.domain.service.pdb
 C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.application.contracts.dll
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.persistence.dll
 C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.application.contracts.pdb
+C:\repo\VmService\vm.domain.service\bin\Debug\netcoreapp3.1\vm.persistence.pdb
 C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.csprojAssemblyReference.cache
 C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.AssemblyInfoInputs.cache
 C:\repo\VmService\vm.domain.service\obj\Debug\netcoreapp3.1\vm.domain.service.AssemblyInfo.cs
