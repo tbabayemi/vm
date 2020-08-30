@@ -13,7 +13,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - script: dotnet build vm/VmService/vm.services/vm.services.csproj --configuration $(buildConfiguration)
+    - script: dotnet build VmService/vm.services/vm.services.csproj --configuration $(buildConfiguration)
     - uses: actions/checkout@master
 
     - name: Set up .NET Core
