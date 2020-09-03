@@ -35,8 +35,8 @@ namespace vm.services
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddOptions();
-            services.AddDbContext<VmContext>(options => options.UseSqlServer(Configuration.GetConnectionString(vm.persistence.Constant.ConnectionStringName)));
-
+            services.AddDbContext<VmContext>();
+            
             var mapperConfig = new MapperConfiguration(mc =>
             {
                 mc.AddProfile(new MappingProfile());
@@ -51,6 +51,7 @@ namespace vm.services
 
         public void ConfigureContainer(ContainerBuilder builder)
         {
+            //builder.RegisterType<ConfigurationRoot>().As<IConfigurationRoot>();
             builder.RegisterType<UserPersistence>().As<IUserPersistence>();
             // Register your own things directly with Autofac, like:
             builder.RegisterModule(new DomainModule());

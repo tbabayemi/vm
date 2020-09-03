@@ -6,6 +6,7 @@ namespace vm.persistence
 {
     public static class Constant
     {
-        public static string ConnectionStringName = "Vm_ConnectionStr";
+        //public static string ConnectionStringName = "Vm_ConnectionStr";
+        public static string ConnectionStringName = "Mac_ConnectionStr";
     }
 }

@@ -8,6 +8,7 @@ namespace vm.domain.service.Contracts
     public interface IUserDomain
     {
         Guid CreateUserProfile(ProfileModel profileModel);
+        ProfileModelOutput GetUserProfile(Guid userId);
     }
     
 }

@@ -1,6 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using System.Text;
+using vm.application.contracts.Models;
 using vm.persistence.Contracts;
 using vm.persistence.Data;
 using vm.persistence.Entities;
@@ -14,6 +16,12 @@ namespace vm.persistence.Implementation
         {
             _vmContext = context;
         }
+
+        public Profile GetUserProfile(Guid id)
+        {
+            return _vmContext.Profiles.Include(p => p.Metadata).FirstOrDefault<Profile>();
+            
+        }
         public Guid CreateUserProfile(Profile profile)
         {
             if(profile == null)
@@ -21,17 +29,10 @@ namespace vm.persistence.Implementation
                 throw new ArgumentNullException("User Profile Argument is null");
             }
 
-            try
-            {
-               var curProfile = _vmContext.Add(profile);
-                return curProfile.Entity.Id;
-            }
-            catch(Exception exp)
-            {
+            
+            var curProfile = _vmContext.Add(profile);
 
-            }
-
-            return Guid.Empty;
+            return curProfile.Entity.Id;
         }
     }
 }

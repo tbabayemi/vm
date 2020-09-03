@@ -10,7 +10,8 @@ namespace vm.domain.service
     {
         public MappingProfile()
         {
-            CreateMap<ProfileModel, vm.persistence.Entities.Profile>().ForPath(pf => pf.ProfileMetadata.CreatedDate, opt => opt.MapFrom(pfe => pfe.CreatedDate == default(DateTime) ? DateTime.Now : pfe.CreatedDate));
+            CreateMap<ProfileModel, vm.persistence.Entities.Profile>().ForPath(pf => pf.Metadata.CreatedDate, opt => opt.MapFrom(pfe => pfe.Metadata.CreatedDate == default(DateTime) ?
+            DateTime.Now : pfe.Metadata.CreatedDate));
         }
     }
 }

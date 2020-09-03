@@ -15,6 +15,7 @@ namespace vm.persistence.Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
-        public VmMetadata ProfileMetadata { get; set; }
+        public Guid MetadataId { get; set; }
+        public ProfileMetadata Metadata { get; set; }
     }
 }

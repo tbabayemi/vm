@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Results;
 using System.Web.Mvc;
+using vm.application.contracts.Models;
 
 namespace vm.application.contracts.User
 {
     public interface IUser
     {
-       string GetUserProfile(string userId);
+       ProfileModelOutput GetUserProfile(Guid userId);
+        IActionResult CreateUserProfile(ProfileModel profile);
     }
 }

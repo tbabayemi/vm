@@ -22,5 +22,31 @@ namespace vm.domain.service
             return _persistence.CreateUserProfile(entityProfile);
         }
 
+        public ProfileModelOutput GetUserProfile(Guid userId)
+        {
+            var curProfile = _persistence.GetUserProfile(userId);
+            if(curProfile == null)
+            {
+                return null;
+            }
+
+            return new ProfileModelOutput
+            {
+                Email = curProfile.Email,
+                LastName = curProfile.LastName,
+                FirstName = curProfile.FirstName,
+                Metadata = new vm.application.contracts.Models.ProfileMetadata
+                {
+
+                    CreatedBy = curProfile.Metadata.CreatedBy,
+                    CreatedDate = curProfile.Metadata.CreatedDate,
+                    UpdatedBy = curProfile.Metadata.UpdatedBy,
+                    UpdatedDate = curProfile.Metadata.UpdatedDate
+                },
+                Id = curProfile.Id,
+                MetadataId = curProfile.Metadata.Id,
+            };
+        }
+
     }
 }

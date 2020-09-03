@@ -34,44 +34,47 @@ namespace vm.persistence.Migrations
                     b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid?>("ProfileMetadataId")
+                    b.Property<Guid>("MetadataId")
                         .HasColumnType("uniqueidentifier");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ProfileMetadataId");
+                    b.HasIndex("MetadataId")
+                        .IsUnique();
 
-                    b.ToTable("Profile");
+                    b.ToTable("Profiles");
                 });
 
-            modelBuilder.Entity("vm.persistence.Entities.VmMetadata", b =>
+            modelBuilder.Entity("vm.persistence.Entities.ProfileMetadata", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("CreatedBy")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<Guid>("UpdatedBy")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<string>("UpdatedBy")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
-                    b.ToTable("VmMedata");
+                    b.ToTable("ProfileMetadatas");
                 });
 
             modelBuilder.Entity("vm.persistence.Entities.Profile", b =>
                 {
-                    b.HasOne("vm.persistence.Entities.VmMetadata", "ProfileMetadata")
-                        .WithMany()
-                        .HasForeignKey("ProfileMetadataId");
+                    b.HasOne("vm.persistence.Entities.ProfileMetadata", "Metadata")
+                        .WithOne("Profile")
+                        .HasForeignKey("vm.persistence.Entities.Profile", "MetadataId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

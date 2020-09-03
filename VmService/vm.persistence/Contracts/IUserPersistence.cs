@@ -9,5 +9,6 @@ namespace vm.persistence.Contracts
     public interface IUserPersistence
     {
         Guid CreateUserProfile(Profile profile);
+        Profile GetUserProfile(Guid Id);
     }
 }
