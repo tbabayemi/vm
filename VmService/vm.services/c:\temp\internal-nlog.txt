@@ -1,0 +1,170 @@
+2020-09-03 04:43:39.2846 Info Message Template Auto Format enabled
+2020-09-03 04:43:39.3263 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 04:43:39.3925 Info Adding target FileTarget(Name=allfile)
+2020-09-03 04:43:39.4062 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 04:43:39.5403 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 05:56:15.8467 Info Message Template Auto Format enabled
+2020-09-03 05:56:15.8781 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 05:56:15.9373 Info Adding target FileTarget(Name=allfile)
+2020-09-03 05:56:15.9491 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 05:56:16.0785 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 06:15:30.5669 Info Message Template Auto Format enabled
+2020-09-03 06:15:30.6011 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 06:15:30.6616 Info Adding target FileTarget(Name=allfile)
+2020-09-03 06:15:30.6740 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 06:15:30.8104 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 06:25:27.3787 Info Message Template Auto Format enabled
+2020-09-03 06:25:27.4085 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 06:25:27.4686 Info Adding target FileTarget(Name=allfile)
+2020-09-03 06:25:27.4787 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 06:25:27.6041 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 06:47:31.5387 Info Message Template Auto Format enabled
+2020-09-03 06:47:31.5757 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 06:47:31.6358 Info Adding target FileTarget(Name=allfile)
+2020-09-03 06:47:31.6476 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 06:47:31.7740 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 06:52:02.3064 Info Message Template Auto Format enabled
+2020-09-03 06:52:02.3381 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 06:52:02.3965 Info Adding target FileTarget(Name=allfile)
+2020-09-03 06:52:02.4061 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 06:52:02.5349 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 06:55:26.6057 Info Message Template Auto Format enabled
+2020-09-03 06:55:26.6388 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 06:55:26.6980 Info Adding target FileTarget(Name=allfile)
+2020-09-03 06:55:26.7086 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 06:55:26.8313 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:19:04.7888 Info Message Template Auto Format enabled
+2020-09-03 09:19:04.8187 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:19:04.8806 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:19:04.9392 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:19:05.0655 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:23:31.7889 Info Message Template Auto Format enabled
+2020-09-03 09:23:31.8237 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:23:31.8875 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:23:31.9015 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:23:32.0374 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:29:45.2737 Info Message Template Auto Format enabled
+2020-09-03 09:29:45.3104 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:29:45.3682 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:29:45.3791 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:29:45.5076 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:31:27.8354 Info Message Template Auto Format enabled
+2020-09-03 09:31:27.8707 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:31:27.9348 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:31:27.9491 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:31:28.0746 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:33:09.8128 Info Message Template Auto Format enabled
+2020-09-03 09:33:09.8477 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:33:09.9081 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:33:09.9197 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:33:10.0442 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:36:02.3102 Info Message Template Auto Format enabled
+2020-09-03 09:36:02.3475 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:36:02.4078 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:36:02.4195 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:36:02.5497 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 09:58:47.2352 Info Message Template Auto Format enabled
+2020-09-03 09:58:47.2690 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 09:58:47.3311 Info Adding target FileTarget(Name=allfile)
+2020-09-03 09:58:47.3438 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 09:58:47.5232 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:02:11.2106 Info Message Template Auto Format enabled
+2020-09-03 10:02:11.2469 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:02:11.3095 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:02:11.3215 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:02:11.4570 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:04:59.6225 Info Message Template Auto Format enabled
+2020-09-03 10:04:59.6537 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:04:59.7140 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:04:59.7263 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:04:59.8520 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:20:38.1281 Info Message Template Auto Format enabled
+2020-09-03 10:20:38.1599 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:20:38.2228 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:20:38.2343 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:20:38.4023 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:20:39.4244 Info Shutdown() called. Logger closing...
+2020-09-03 10:20:39.4244 Info Closing old configuration.
+2020-09-03 10:20:39.4837 Info Logger has been closed down.
+2020-09-03 10:20:39.4885 Info AppDomain Shutting down. Logger closing...
+2020-09-03 10:20:39.4896 Info Logger has been shut down.
+2020-09-03 10:24:39.8322 Info Message Template Auto Format enabled
+2020-09-03 10:24:39.8634 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:24:39.9263 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:24:39.9399 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:24:40.0997 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:24:41.1070 Info Shutdown() called. Logger closing...
+2020-09-03 10:24:41.1072 Info Closing old configuration.
+2020-09-03 10:24:41.1683 Info Logger has been closed down.
+2020-09-03 10:24:41.1725 Info AppDomain Shutting down. Logger closing...
+2020-09-03 10:24:41.1737 Info Logger has been shut down.
+2020-09-03 10:26:28.9326 Info Message Template Auto Format enabled
+2020-09-03 10:26:28.9648 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:26:29.0350 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:26:29.0480 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:26:29.2901 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:26:30.4387 Info Shutdown() called. Logger closing...
+2020-09-03 10:26:30.4389 Info Closing old configuration.
+2020-09-03 10:26:30.4553 Info Logger has been closed down.
+2020-09-03 10:26:30.4593 Info AppDomain Shutting down. Logger closing...
+2020-09-03 10:26:30.4604 Info Logger has been shut down.
+2020-09-03 10:29:50.4652 Info Message Template Auto Format enabled
+2020-09-03 10:29:50.4947 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:29:50.5534 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:29:50.5637 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:29:50.6896 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:29:51.6279 Info Shutdown() called. Logger closing...
+2020-09-03 10:29:51.6279 Info Closing old configuration.
+2020-09-03 10:29:51.6923 Info Logger has been closed down.
+2020-09-03 10:29:51.6962 Info AppDomain Shutting down. Logger closing...
+2020-09-03 10:29:51.6974 Info Logger has been shut down.
+2020-09-03 10:31:20.4510 Info Message Template Auto Format enabled
+2020-09-03 10:31:20.4801 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 10:31:20.5388 Info Adding target FileTarget(Name=allfile)
+2020-09-03 10:31:20.5491 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 10:31:20.6684 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 10:31:21.5640 Info Shutdown() called. Logger closing...
+2020-09-03 10:31:21.5641 Info Closing old configuration.
+2020-09-03 10:31:21.6291 Info Logger has been closed down.
+2020-09-03 10:31:21.6329 Info AppDomain Shutting down. Logger closing...
+2020-09-03 10:31:21.6341 Info Logger has been shut down.
+2020-09-03 11:25:16.2825 Info Message Template Auto Format enabled
+2020-09-03 11:25:16.3145 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 11:25:16.3728 Info Adding target FileTarget(Name=allfile)
+2020-09-03 11:25:16.3859 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 11:25:16.5121 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 11:25:17.5274 Info Shutdown() called. Logger closing...
+2020-09-03 11:25:17.5274 Info Closing old configuration.
+2020-09-03 11:25:17.5463 Info Logger has been closed down.
+2020-09-03 11:25:17.5501 Info AppDomain Shutting down. Logger closing...
+2020-09-03 11:25:17.5513 Info Logger has been shut down.
+2020-09-03 11:27:38.5380 Info Message Template Auto Format enabled
+2020-09-03 11:27:38.5676 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 11:27:38.6274 Info Adding target FileTarget(Name=allfile)
+2020-09-03 11:27:38.6393 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 11:27:38.7589 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 12:04:37.8716 Info Message Template Auto Format enabled
+2020-09-03 12:04:37.9055 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 12:04:37.9676 Info Adding target FileTarget(Name=allfile)
+2020-09-03 12:04:37.9797 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 12:04:38.1089 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 13:49:56.8048 Info Message Template Auto Format enabled
+2020-09-03 13:49:56.8440 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 13:49:56.9077 Info Adding target FileTarget(Name=allfile)
+2020-09-03 13:49:56.9237 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 13:49:57.0558 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 14:12:20.5419 Info Message Template Auto Format enabled
+2020-09-03 14:12:20.5783 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 14:12:20.6391 Info Adding target FileTarget(Name=allfile)
+2020-09-03 14:12:20.6540 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 14:12:20.7718 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 15:18:00.8489 Info Message Template Auto Format enabled
+2020-09-03 15:18:00.8833 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 15:18:00.9467 Info Adding target FileTarget(Name=allfile)
+2020-09-03 15:18:00.9584 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 15:18:01.0882 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
+2020-09-03 16:10:49.2179 Info Message Template Auto Format enabled
+2020-09-03 16:10:49.2540 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-03 16:10:49.3200 Info Adding target FileTarget(Name=allfile)
+2020-09-03 16:10:49.3363 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-03 16:10:49.4603 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/powowa-777/repo/vm/VmService/nlog.config
